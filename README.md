@@ -1,15 +1,16 @@
 ### Hi there 👋
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/90738480/198813886-80f30816-b3c9-4058-9d35-3a33f8aaf3aa.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+Soy Full Stack developer & mobile apps.
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+Me gusta la programación, resolver problemas, automatizar y crear aplicaciones.
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+- 🔭 Actualmente estoy estudiando Ingeniería Informática.
+- 📚 Aprendiendo y mejorando cada día.
+- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/lauradsilvah/), [Gmail](mailto:lauradsilvah@gmail.com)
+- ⚡ Mi portfolio: [LauraSilva](https://portfolio-laura-silva.vercel.app/)
+
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraSilvaH)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LauraSilvaH/LauraSilvaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
