@@ -1,4 +1,4 @@
-### Hello Word 👋
+### Hello World 👋
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/90738480/198813886-80f30816-b3c9-4058-9d35-3a33f8aaf3aa.gif" />
 
 Soy Full Stack developer & mobile apps.
