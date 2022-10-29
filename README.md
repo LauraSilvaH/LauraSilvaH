@@ -10,7 +10,18 @@ Me gusta la programación, resolver problemas, automatizar y crear aplicaciones.
 - 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/lauradsilvah/), [Gmail](mailto:lauradsilvah@gmail.com)
 - ⚡ Mi portfolio: [LauraSilva](https://portfolio-laura-silva.vercel.app/)
 
-[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraSilvaH)](https://github.com/anuraghazra/github-readme-stats)
+
+**Ultimamente estoy trabajando con estas herramientas:** 
+<p align="left">
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+
+</p>
+
 <!--
 **LauraSilvaH/LauraSilvaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
