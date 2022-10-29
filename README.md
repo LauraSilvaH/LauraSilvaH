@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Word 👋
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/90738480/198813886-80f30816-b3c9-4058-9d35-3a33f8aaf3aa.gif" />
 
 Soy Full Stack developer & mobile apps.
@@ -11,7 +11,7 @@ Me gusta la programación, resolver problemas, automatizar y crear aplicaciones.
 - ⚡ Mi portfolio: [LauraSilva](https://portfolio-laura-silva.vercel.app/)
 
 
-**Ultimamente estoy trabajando con estas herramientas:** 
+**Últimamente estoy trabajando con estas herramientas:** 
 <p align="left">
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
